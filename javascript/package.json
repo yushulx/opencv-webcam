@@ -1,0 +1,11 @@
+{
+  "name": "webcam",
+  "version": "1.0.0",
+  "description": "Open webcam in any web browsers",
+  "main": "web.js",
+  "author": "yushulx",
+  "license": "MIT",
+  "dependencies": {
+    "opencv4nodejs": "^5.6.0"
+  }
+}
