@@ -3,8 +3,8 @@
 The repository contains some simple webcam display programs implemented by using different programming languages and OpenCV. The web camera apps are available for both local and remote access via any web browser. 
 
 ## Programming Language List
-- [JavaScript]((#JavaScript))
-- [C#](#C#)
+- [JavaScript](#JavaScript)
+- [C#](#CSharp)
 - [Python](#Python)
 - [Golang](#Golang)
 
@@ -35,7 +35,7 @@ node desktop.js
     ```
 2. Open `double-click.htm` directly or visit `locahost:2020` in any web browser.
 
-## C#
+## CSharp
 
 Install [OpenCvSharp](https://github.com/shimat/opencvsharp):
 
