@@ -125,3 +125,6 @@ go run desktop.go
     ```
 
 2. Visit `locahost:2020` in any web browser.
+
+## Blog
+[How to Use OpenCV to Build Simple Webcam Apps for Desktop and Web](https://www.dynamsoft.com/codepool/opencv-webcam-app-desktop-web.html)
